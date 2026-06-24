@@ -1,0 +1,6 @@
+cookies.txt
+txt/
+*.pdf
+un_iccpr.html
+__pycache__/
+.DS_Store
