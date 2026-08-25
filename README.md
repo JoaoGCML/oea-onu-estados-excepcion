@@ -76,6 +76,19 @@ build_episodes.py                            -> episodios_excepcion.csv
 build_dashboard.py                           -> dashboard_excepcion.html (visualización)
 ```
 
-## Fuentes
-- OEA: Depto. de Derecho Internacional — notificaciones Art. 27 CADH.
-- ONU: UN Treaty Collection, MTDSG Cap. IV-4, notificaciones Art. 4(3) PIDCP. PDFs C.N.: `treaties.un.org/doc/Publication/CN/{año}/CN.{n}.{año}-Eng.pdf`.
+## Fuentes y atribución
+
+### Fuentes oficiales (capa de notificaciones)
+- **OEA** — Departamento de Derecho Internacional, Secretaría General: notificaciones de suspensión de garantías, Art. 27 CADH.
+- **ONU** — UN Treaty Collection, MTDSG Cap. IV-4: derogaciones notificadas al depositario, Art. 4(3) PIDCP. PDFs C.N.: `treaties.un.org/doc/Publication/CN/{año}/CN.{n}.{año}-Eng.pdf`. Seguimiento complementario del **Centre for Civil and Political Rights (CCPR Centre)**.
+- **Gacetas y diarios oficiales nacionales** — actos primarios de declaración, prórroga y levantamiento (capa no notificada).
+
+### Bases académicas y de referencia
+Este registro se apoya en, y dialoga con, bases construidas por otros equipos de investigación, a quienes se agradece y atribuye expresamente:
+
+- **Bjørnskov, C. (Aarhus University) & Voigt, S. (Universität Hamburg)** — base INEP sobre constituciones y poderes de emergencia *de jure* (214 países, 1789–2013), empleada como capa de referencia de jure. Ver Bjørnskov & Voigt (2018), *The Architecture of Emergency Constitutions*, International Journal of Constitutional Law 16(1).
+- **Hafner-Burton, E. M., Helfer, L. R., & Fariss, C. J. (2011)** — *Emergency and Escape: Explaining Derogations from Human Rights Treaties*, International Organization 65(4) — referencia sobre el registro de derogaciones del PIDCP y sus sesgos.
+- **Bjørnskov, C., & Rode, M. (2020)** — *Regime types and regime change: A new dataset on democracy, coups, and political institutions*, Review of International Organizations 15 — base de contexto de rupturas de régimen.
+- **Oxford COVID-19 Government Response Tracker (OxCGRT)** e **ICNL COVID-19 Civic Freedom Tracker** — referencia para las emergencias del período COVID-19.
+
+La compilación, el emparejamiento OEA↔ONU, la construcción de episodios y cualquier error son responsabilidad exclusiva de este repositorio; las bases citadas pertenecen a sus autores y se rigen por sus propios términos. Si se usa este registro en investigación, se pide citar también las fuentes anteriores cuando corresponda.
